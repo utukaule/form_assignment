@@ -1,0 +1,23 @@
+.form{
+    border: 1px solid red;
+    
+    width: 40%;
+    margin: 10px auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   border-radius: 20px;
+    padding: 20px;
+}
+
+.btn1{
+    background: rgb(247,193,122);
+    margin: 10px;
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
+input{
+    margin: 3px;
+}

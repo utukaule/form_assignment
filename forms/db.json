@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "Name": "vaibhav",
+      "Age": "24",
+      "Gender": "male",
+      "Department": "Development",
+      "Role": "Engineer",
+      "Salry": "900000",
+      "Maritialstate": "single",
+      "id": 1
+    },
+    {
+      "Name": "ram",
+      "Age": "25",
+      "Gender": "male",
+      "Department": "Front-End",
+      "Role": "Engineer",
+      "Salry": "530000",
+      "Maritialstate": "single",
+      "Address": "pune",
+      "id": 2
+    },
+    {
+      "Name": "skdjfhs",
+      "Age": "123",
+      "Gender": "male",
+      "Department": "Design",
+      "Role": "adsij",
+      "Salry": "180000",
+      "Maritialstate": "asdjf",
+      "Address": "kasdnfa",
+      "id": 3
+    },
+    {
+      "Name": "skdjfhs",
+      "Age": "123",
+      "Gender": "male",
+      "Department": "Design",
+      "Role": "adsij",
+      "Salry": "180000",
+      "Maritialstate": "asdjf",
+      "Address": "kasdnfa",
+      "id": 4
+    },
+    {
+      "Name": "skdjfhs",
+      "Age": "123",
+      "Gender": "male",
+      "Department": "Design",
+      "Role": "adsij",
+      "Salry": "180000",
+      "Maritialstate": "asdjf",
+      "Address": "kasdnfa",
+      "id": 5
+    },
+    {
+      "Name": "skdjfhs",
+      "Age": "123",
+      "Gender": "male",
+      "Department": "Design",
+      "Role": "adsij",
+      "Salry": "180000",
+      "Maritialstate": "asdjf",
+      "Address": "kasdnfa",
+      "id": 6
+    }
+  ]
+}
